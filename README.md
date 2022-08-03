@@ -3,7 +3,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>Barbearia Alura</title>
+        <h1>Barbearia Alura</h1>
     </head>
     <body>
         <h2 style="text-align: center;">Sobre a Barbearia Alura</h2>
